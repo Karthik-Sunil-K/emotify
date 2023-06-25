@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Mood Checker',
+      title: 'EBC Friend',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -43,7 +43,7 @@ class HappyScreen1 extends StatelessWidget {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
-        title: Center(child: Text('Mood Checker')),
+        title: Center(child: Text('EBC Friend')),
       ),
       body: Center(
         child: Column(
@@ -147,7 +147,7 @@ class HappyScreen2 extends StatelessWidget {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
-        title: Center(child: Text('Mood Checker')),
+        title: Center(child: Text('EBC Friend')),
       ),
       body: Center(
         child: Column(
@@ -261,7 +261,7 @@ class HappyScreen3 extends StatelessWidget {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
-        title: Center(child: Text('Mood Checker')),
+        title: Center(child: Text('EBC Friend')),
       ),
       body: Center(
         child: Column(
@@ -394,7 +394,7 @@ class SadScreen1 extends StatelessWidget {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
-        title: Center(child: Text('Mood Checker')),
+        title: Center(child: Text('EBC Friend')),
       ),
       body: Center(
         child: Column(
@@ -509,7 +509,7 @@ class SadScreen2 extends StatelessWidget {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
-        title: Center(child: Text('Mood Checker')),
+        title: Center(child: Text('EBC Friend')),
       ),
       body: Center(
         child: Column(
@@ -628,7 +628,7 @@ class SadScreen3 extends StatelessWidget {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
-        title: Center(child: Text('Mood Checker')),
+        title: Center(child: Text('EBC Friend')),
       ),
       body: Center(
         child: Column(
@@ -762,7 +762,7 @@ class AngryScreen1 extends StatelessWidget {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
-        title: Center(child: Text('Mood Checker')),
+        title: Center(child: Text('EBC Friend')),
       ),
       body: Center(
         child: Column(
@@ -890,7 +890,7 @@ class AngryScreen2 extends StatelessWidget {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
-        title: Center(child: Text('Mood Checker')),
+        title: Center(child: Text('EBC Friend')),
       ),
       body: Center(
         child: Column(
@@ -1008,7 +1008,7 @@ class AngryScreen3 extends StatelessWidget {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
-        title: Center(child: Text('Mood Checker')),
+        title: Center(child: Text('EBC Friend')),
       ),
       body: Center(
         child: Column(
@@ -1218,7 +1218,7 @@ class _FinalSummaryScreenState extends State<FinalSummaryScreen> {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         backgroundColor: Colors.black,
-        title: Center(child: Text('Mood Checker')),
+        title: Center(child: Text('EBC Friend')),
       ),
       body: Center(
         child: Column(
